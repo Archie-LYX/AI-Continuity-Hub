@@ -1,0 +1,11 @@
+{
+  "agent": "Example assistant",
+  "goal": "让示例项目可以被下一位助手接手。",
+  "done": "完成了本地初始化并整理了待办。",
+  "verification": "运行本地示例，确认能读取当前交接。",
+  "blockers": "无。",
+  "next_step": "运行自己的项目测试并记录结果。",
+  "references": [],
+  "scope": "仅记录示例交接。",
+  "touched": "本次没有改动项目代码。"
+}
